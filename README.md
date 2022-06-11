@@ -10,13 +10,13 @@ Motion capture recordings of the head with 9 features parallel to each frame of 
 The video data and the motion capture data are each stored in separate files. Several consecutive frames are missing in the respective files and thus form a block of missing frames. The length, number and positions of the missing frame blocks vary. The missing frame blocks between the video data and the associated motion capture data may also vary.
  
 
-# Data details
+### Data details
 There are 30 file triples (in the folder "./data"), each consisting of:
 Video recording ("s0xxxxx_video.mp4"): Video file with missing frames (missing frames set to zero).
 Motion capture recording ("s0xxxxx_mocap.csv"): Motion capture file with missing frames (missing frames set to zero).
 Info file ("s0xxxxx_info.csv"): Info file that indicates for each frame whether motion capture data and video data are present or not.
 
-# Delivery
+### Delivery
 The files "video.mp4" and "mocap.csv" must be filled with the reconstructed frames. These can then be uploaded to the BBDC 2022 Submission Portal (https://bbdc.csl.uni-bremen.de/submission/). The score is then automatically calculated and displayed and the placement in the leadboard is updated.
 The delivery files are located in the folder "./abgabe" and specify the format of your submission. Both files are filled with zeros. Your task is to use them with predicated frames.
 fill.
