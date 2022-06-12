@@ -17,11 +17,7 @@ Motion capture recording ("s0xxxxx_mocap.csv"): Motion capture file with missing
 Info file ("s0xxxxx_info.csv"): Info file that indicates for each frame whether motion capture data and video data are present or not.
 
 ### Delivery
-The files "video.mp4" and "mocap.csv" must be filled with the reconstructed frames. These can then be uploaded to the BBDC 2022 Submission Portal (https://bbdc.csl.uni-bremen.de/submission/). The score is then automatically calculated and displayed and the placement in the leadboard is updated.
-The delivery files are located in the folder "./abgabe" and specify the format of your submission. Both files are filled with zeros. Your task is to use them with predicated frames.
-fill.
- 
-
+The files "video.mp4" and "mocap.csv" must be filled with the reconstructed frames.
 "video.mp4": This template should be filled with the reconstructed video frames of all 30 video files. This creates a video from only reconstructed frames.
 "mocap.csv": This template should be filled with the reconstructed motion capture frames of all 30 motion capture files. This creates a motion capture motion sequence of only reconstructed frames.
 In addition, there are two files ("all_idx_{video|mocap}_infos.csv") that define which frames in your specifications correspond to which frames of the original video or motion capture files. The order is important here.
