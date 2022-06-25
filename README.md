@@ -1,4 +1,4 @@
-# BBDC_2022
+# Bremen Big Data Challenge_2022
 
 ## Link : https://bbdc.csl.uni-bremen.de/index.php/15-bbdc-2022/39-aufgabenstellung-2022
 
