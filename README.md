@@ -1,6 +1,5 @@
 # Bremen Big Data Challenge_2022
-
-### Link: https://bbdc.csl.uni-bremen.de/index.php/15-bbdc-2022/39-aufgabenstellung-2022
+Link: https://bbdc.csl.uni-bremen.de/index.php/15-bbdc-2022/39-aufgabenstellung-2022
 
 ### Executive Summary:
  This report proposes a complete methodology and solution for the task assigned in Bremen Big Data Challenge 2022 (BBDC). BBDC is an annual data analysis competition conducted by University of Bremen, open for universities students in and around Bremen. The task assigned deals with sequential modelling. The provided data consist of two parallel and synchronous data sequences of human movements captured in video and motion capture files. With a block of missing frames which resulted from the absence of several consecutive frames in the appropriate files. The length, number, and placement of the missing frame components varies. There may be a difference in the amount of missing frame blocks between the two data. The goal is to reconstruct missing data from movement sequences recorded with two separate modalities in detail.
