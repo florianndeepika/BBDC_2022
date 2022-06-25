@@ -1,6 +1,6 @@
 # Bremen Big Data Challenge_2022
 
-## Link : https://bbdc.csl.uni-bremen.de/index.php/15-bbdc-2022/39-aufgabenstellung-2022
+### Link : https://bbdc.csl.uni-bremen.de/index.php/15-bbdc-2022/39-aufgabenstellung-2022
 
 ### Task
  The Bremen Big Data Challenge 2022 deals with the area of sequence modeling. In detail, it is about correctly reconstructing missing data from motion sequences recorded by two different modalities. There are always two parallel and synchronous data sequences for the movements:
